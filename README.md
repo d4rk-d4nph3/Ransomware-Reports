@@ -2,7 +2,7 @@
 [![Made with](https://img.shields.io/static/v1?label=Ransomware&message=Reports&color=blueviolet)](https://github.com/d4rk-d4nph3/Ransomware-Reports)
 [![Made with](https://img.shields.io/static/v1?label=Contribution&message=Welcomed&color=green)](https://github.com/d4rk-d4nph3/Ransomware-Reports)
 
-This repository serves as an archive of publicly available reports related to Ransomware. This might be useful for researchers as a reference as I didn't find a central repository containing these reports.
+This repository serves as an archive of publicly available reports/whitepapers/articles related to Ransomware. This might be useful for researchers as a reference as I didn't find a central repository containing these reports.
 
 This repo is inspired from [threat-INTel](https://github.com/fdiskyou/threat-INTel) and [APTnotes](https://github.com/kbandla/APTnotes).
 
@@ -10,6 +10,10 @@ This repo is inspired from [threat-INTel](https://github.com/fdiskyou/threat-INT
 
 - [FireEye Navigating the MAZE: Tactics, Techniques and Procedures Associated With MAZE Ransomware Incidents - May 2020](https://www.fireeye.com/blog/threat-research/2020/05/tactics-techniques-procedures-associated-with-maze-ransomware-incidents.html)
 - [BitDefender - A Technical Look into Maze Ransomware Whitepaper](https://download.bitdefender.com/resources/files/News/CaseStudies/study/318/Bitdefender-TRR-Whitepaper-Maze-creat4351-en-EN-GenericUse.pdf)
+- [McAfee - Ransomware Maze - Mar 2020](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/ransomware-maze/)
+- [Preempt - Maze Ransomware Analysis and Protection](https://www.preempt.com/blog/maze-ransomware-protection/)
+- [IronNet Blog - Navigating Maze ransomware](https://www.ironnet.com/blog/tracking-maze-ransomware)
+- [Crowdstrike - The Many Paths Through Maze - May 2020](https://www.crowdstrike.com/blog/maze-ransomware-deobfuscation/)
 - [HHS Cybersecurity Program - 06/04/2020](https://www.hhs.gov/sites/default/files/maze-ransomware.pdf)
 - [The National Cyber-Forensics and Training Alliance Whitepaper - December 02, 2019](https://1f3r982zgpjh2wuihs3suki9-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Maze_Whitepaper.pdf)
 - [Maze Ransomware Campaign Spoofs Italian Revenue Agency Correspondence - Oct 2019](https://www.infoblox.com/wp-content/uploads/threat-intelligence-report-maze-ransomware-campaign-spoofs-Italian-revenue-agency-correspondence.pdf)
@@ -19,3 +23,26 @@ This repo is inspired from [threat-INTel](https://github.com/fdiskyou/threat-INT
 - [Threat Actor TA2101 (ProofPoint) using Maze Ransomware to target Government and Commercial Entities - Jan 2020](https://www.fipco.com/solutions/it-audit-security/cyber-security-resources-links/CISAActivityAlert_AA20-017A_TA2101-Maze_Ransomware.pdf)
 - [Cyberinit Cognizant Hit by MAZE Ransomware - Apr 2020](https://e.cyberint.com/hubfs/Cognizant%20Hit%20by%20MAZE%20Ransomware-%20Report/Cyberint-Cognizant%20Hit%20by%20MAZE%20Ransomware-Report.pdf)
 - [Ransomware Attackers Use Your Cloud Backups Against You](https://www.bleepingcomputer.com/news/security/ransomware-attackers-use-your-cloud-backups-against-you/)
+
+## REvil (Sodinokibi)
+
+- [Cybereason - Sodinokibi: The Crown Prince of Ransomware - Aug 2019](https://www.cybereason.com/blog/the-sodinokibi-ransomware-attack)
+- [Secureworks - REvil/Sodinokibi Ransomware - Sep 2019](https://www.secureworks.com/research/revil-sodinokibi-ransomware)
+- [REvil -SodinokibiTechnical analysis andThreat IntelligenceReport - 2019](https://www.tgsoft.it/immagini/news/20190705Sodinokibi/Sodinokibi_eng.pdf)
+- [DarkTrace - Post-mortem of a targeted Sodinokibi ransomware attack - Feb 2020](https://www.darktrace.com/en/blog/post-mortem-of-a-targeted-sodinokibi-ransomware-attack/)
+- [McAfee ATR Analyzes Sodinokibi aka REvil Ransomware-as-a-Service – What The Code Tells Us - Oct 2019](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-atr-analyzes-sodinokibi-aka-revil-ransomware-as-a-service-what-the-code-tells-us/)
+- [BlackBerry ThreatVector Blog - Threat Spotlight: Sodinokibi Ransomware - Jul 2019](https://blogs.blackberry.com/en/2019/07/threat-spotlight-sodinokibi-ransomware)
+- [A brief history and further technical analysis of Sodinokibi Ransomware - Jan 2020](https://www.picussecurity.com/blog/a-brief-history-and-further-technical-analysis-of-sodinokibi-ransomware)
+- [Acronis - Taking Deep Dive into Sodinokibi Ransomware](https://www.acronis.com/en-eu/articles/sodinokibi-ransomware/)
+- [Cisco Talos - Sodinokibi ransomware exploits WebLogic Server vulnerability - Apr 2019](https://blog.talosintelligence.com/2019/04/sodinokibi-ransomware-exploits-weblogic.html)
+- [Sodinokibi Analysis Process](https://malware.news/t/sodinokibi-analysis-process/36482)
+- [Cynet Labs - Ransomware Never Dies – Analysis of New Sodinokibi Ransomware Variant - Jul 2019](https://www.cynet.com/blog/ransomware-never-dies-analysis-of-new-sodinokibi-ransomware-variant/)
+- [KPN - Tracking REvil](https://www.kpn.com/security-blogs/tracking-revil.htm)
+- [Intel471 - REvil Ransomware-as-a-Service – An analysis of a ransomware affiliate operation - Mar 2020](https://blog.intel471.com/2020/03/31/revil-ransomware-as-a-service-an-analysis-of-a-ransomware-affiliate-operation/)
+- [SISA - REvil RANSOMWARE - May 2020](https://www.sisainfosec.com/downloads/Advisory/REvil-Ransomware-Sodinokibi-RaaS.pdf)
+- [Tesorion - A connection between the Sodinokibi and GandCrab ransomware families?](https://www.tesorion.nl/aconnection-between-the-sodinokibi-and-gandcrab-ransomware-families/)
+- [Sodinokibi: Ransomware Attackers also Scanning for PoS Software, Leveraging Cobalt Strike - Jun 2020](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/sodinokibi-ransomware-cobalt-strike-pos)
+- [McAfee Labs Threat Advisory Ransomware-Sodinokibi - Apr 2020](https://kc.mcafee.com/resources/sites/MCAFEE/content/live/CORP_KNOWLEDGEBASE/92000/KB92632/en_US/Threat_Advisory_Sodinokibi-1.pdf)
+- [Arete - Sodinokibi Ransomware 2020](https://areteir.com/wp-content/uploads/2020/07/Arete_Insight_Sodinokibi-Ransomware-Stats_June-2020-1.pdf)
+- [Securonix Threat Research:Detecting High-Impact Targeted Cloud/MSP $14M+ Ryuk and REvil Ransomware Attacks - Jan 2020](https://www.securonix.com/web/wp-content/uploads/2019/12/Securonix-Threat-Research-Cloud-MSP-Ryuk-REvil-Ransomware-Report.pdf)
+- [Zdnet - REvil ransomware gang launches auction site to sell stolen data - 2020](https://www.zdnet.com/article/revil-ransomware-gang-launches-auction-site-to-sell-stolen-data/)
