@@ -6,6 +6,11 @@ This repository serves as an archive of publicly available reports/whitepapers/a
 
 This repo is inspired from [threat-INTel](https://github.com/fdiskyou/threat-INTel) and [APTnotes](https://github.com/kbandla/APTnotes).
 
+## Generic
+
+- [Sophos - How Ransomware Attacks](https://www.sophos.com/en-us/medialibrary/PDFs/technical-papers/sophoslabs-ransomware-behavior-report.pdf)
+- [FireEye - Ransomware Protection and Containment Strategies Whitepaper](https://raw.githubusercontent.com/browninfosecguy/Malware-Reports/master/wp-ransomware-protection-and-containment-strategies.pdf)
+
 ## Maze
 
 - [FireEye Navigating the MAZE: Tactics, Techniques and Procedures Associated With MAZE Ransomware Incidents - May 2020](https://www.fireeye.com/blog/threat-research/2020/05/tactics-techniques-procedures-associated-with-maze-ransomware-incidents.html)
