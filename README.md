@@ -8,8 +8,13 @@ This repo is inspired from [threat-INTel](https://github.com/fdiskyou/threat-INT
 
 ## Generic
 
+- [Sophos - THE STATE OF RANSOMWARE 2020 - May 2020](https://www.sophos.com/en-us/medialibrary/Gated-Assets/white-papers/sophos-the-state-of-ransomware-2020-wp.pdf)
+- [BitDefender - Ransomware A Victim’s Perspective: A study on US and European Internet Users - Jan 2016](https://download.bitdefender.com/resources/files/News/CaseStudies/study/59/Bitdefender-Ransomware-A-Victim-Perspective.pdf)
 - [Sophos - How Ransomware Attacks](https://www.sophos.com/en-us/medialibrary/PDFs/technical-papers/sophoslabs-ransomware-behavior-report.pdf)
 - [FireEye - Ransomware Protection and Containment Strategies Whitepaper](https://raw.githubusercontent.com/browninfosecguy/Malware-Reports/master/wp-ransomware-protection-and-containment-strategies.pdf)
+- [TrendLabs - Ransomware Past, Present, and Future](https://altcomp.mx/wp-content/uploads/2017/06/ransomware-presente-pasado-y-futuro-trend-micro.pdf)
+- [ESET - TRENDS IN ANDROID RANSOMWARE - 2017](https://www.welivesecurity.com/wp-content/uploads/2017/02/ESET_Trends_2017_in_Android_Ransomware.pdf)
+- [SentinelOne - RANSOMWARE RESEARCH DATA SUMMARY - 2016](https://go.sentinelone.com/rs/327-MNM-087/images/Data%20Summary%20-%20English.pdf)
 
 ## Maze
 
