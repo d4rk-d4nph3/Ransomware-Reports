@@ -15,6 +15,7 @@ This repo is inspired from [threat-INTel](https://github.com/fdiskyou/threat-INT
 - [TrendLabs - Ransomware Past, Present, and Future](https://altcomp.mx/wp-content/uploads/2017/06/ransomware-presente-pasado-y-futuro-trend-micro.pdf)
 - [ESET - TRENDS IN ANDROID RANSOMWARE - 2017](https://www.welivesecurity.com/wp-content/uploads/2017/02/ESET_Trends_2017_in_Android_Ransomware.pdf)
 - [SentinelOne - RANSOMWARE RESEARCH DATA SUMMARY - 2016](https://go.sentinelone.com/rs/327-MNM-087/images/Data%20Summary%20-%20English.pdf)
+- [Malwarebytes - CYBERCRIME TACTICS AND TECHNIQUES: Ransomware Retrospective - Aug 2019](https://resources.malwarebytes.com/files/2019/08/CTNT-2019-Ransomware_August_FINAL.pdf)
 
 ## Maze
 
@@ -56,6 +57,17 @@ This repo is inspired from [threat-INTel](https://github.com/fdiskyou/threat-INT
 - [Arete - Sodinokibi Ransomware 2020](https://areteir.com/wp-content/uploads/2020/07/Arete_Insight_Sodinokibi-Ransomware-Stats_June-2020-1.pdf)
 - [Securonix Threat Research:Detecting High-Impact Targeted Cloud/MSP $14M+ Ryuk and REvil Ransomware Attacks - Jan 2020](https://www.securonix.com/web/wp-content/uploads/2019/12/Securonix-Threat-Research-Cloud-MSP-Ryuk-REvil-Ransomware-Report.pdf)
 - [Zdnet - REvil ransomware gang launches auction site to sell stolen data - 2020](https://www.zdnet.com/article/revil-ransomware-gang-launches-auction-site-to-sell-stolen-data/)
+
+## GrandCrab
+
+- [Acronis - Evolution of GandCrab Ransomware](acronis.com/en-eu/articles/gandcrab/)
+- [VMRay - The Evolution of GandCrab Ransomware - Jun 2018](https://www.vmray.com/cyber-security-blog/gandcrab-ransomware-evolution-analysis/)
+- [Securonix Threat Research - GANDCRAB RANSOMWARE ATTACK](https://www.securonix.com/web/wp-content/uploads/2018/07/Securonix-Threat-Research-GandCrab-Ransomware-Attack.pdf)
+- [FortiNet - GandCrab V4.0 Analysis: New Shell, Same Old Menace - Jul 2018](https://www.fortinet.com/blog/threat-research/gandcrab-v4-0-analysis--new-shell--same-old-menace)
+- [CheckPoint - The GandCrab Ransomware Mindset - Mar 2018](https://research.checkpoint.com/2018/gandcrab-ransomware-mindset/)
+- [Tesorion - A connection between the Sodinokibi and GandCrab ransomware families?](https://www.tesorion.nl/aconnection-between-the-sodinokibi-and-gandcrab-ransomware-families/)
+- [BitDefender - GandCrab: The Most Popular Multi-Million Dollar Ransomware of the Year - Oct 2018](https://labs.bitdefender.com/2018/10/gandcrab-the-most-popular-multi-million-dollar-ransomware-of-the-year/)
+- [Unpacking GandCrab Ransomware](https://secrary.com/ReversingMalware/UnpackingGandCrab/)
 
 ## WannaCry
 
