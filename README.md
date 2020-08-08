@@ -16,6 +16,7 @@ This repo is inspired from [threat-INTel](https://github.com/fdiskyou/threat-INT
 - [ESET - TRENDS IN ANDROID RANSOMWARE - 2017](https://www.welivesecurity.com/wp-content/uploads/2017/02/ESET_Trends_2017_in_Android_Ransomware.pdf)
 - [SentinelOne - RANSOMWARE RESEARCH DATA SUMMARY - 2016](https://go.sentinelone.com/rs/327-MNM-087/images/Data%20Summary%20-%20English.pdf)
 - [Malwarebytes - CYBERCRIME TACTICS AND TECHNIQUES: Ransomware Retrospective - Aug 2019](https://resources.malwarebytes.com/files/2019/08/CTNT-2019-Ransomware_August_FINAL.pdf)
+- [McAfee - Targeted Ransomware No Longer a Future Threat - Feb 2016](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-targeted-ransomware.pdf)
 
 ## Maze
 
@@ -103,3 +104,13 @@ This repo is inspired from [threat-INTel](https://github.com/fdiskyou/threat-INT
 - [Quick Heal - An analysis of the Dharma ransomware outbreak by Quick Heal Security Labs - May 2018](https://blogs.quickheal.com/analysis-dharma-ransomware-outbreak-quick-heal-security-labs/)
 - [Quick Heal - Dharma Ransomware Variant Malspam Targeting COVID-19 - Apr 2020](https://blogs.quickheal.com/dharma-targeting-covid-19/)
 - [Dharma ransomware. 36 Variants listed. 2020 removal instructions - Aug 2020](https://www.2-spyware.com/remove-dharma-ransomware-virus.html)
+
+## Samsam
+
+- [Crowdstrike - An In-Depth Analysis of Samsam Ransomware and BOSS SPIDER - May 2018](https://www.crowdstrike.com/blog/an-in-depth-analysis-of-samsam-ransomware-and-boss-spider/)
+- [Sophos - SamSam Ransomware Chooses Its Targets Carefully - Apr 2018](https://www.sophos.com/en-us/medialibrary/PDFs/technical-papers/SamSam-ransomware-chooses-Its-targets-carefully-wpna.pdf)
+- [Secureworks - SamSam Ransomware Campaigns - Feb 2018](https://cyberriskleaders.com/wp-content/uploads/2018/02/Public-Secureworks-Threat-Analysis-SamSam_FINAL_Feb_19_2018.pdf)
+- [Malwarebytes - SamSam ransomware: controlled distribution for an elusive malware - Jun 2018](https://blog.malwarebytes.com/threat-analysis/2018/06/samsam-ransomware-controlled-distribution/)
+- [Sophos - SamSam: The (Almost) Six Million Dollar Ransomware](https://www.sophos.com/en-us/medialibrary/PDFs/technical-papers/SamSam-The-Almost-Six-Million-Dollar-Ransomware.pdf)
+- [CISA Alert (AA18-337A) SamSam Ransomware - Dec 2018](https://us-cert.cisa.gov/ncas/alerts/AA18-337A?mkt_tok=eyJpIjoiTlRNeU5ERm1NVFU1WVRnNSIsInQiOiJGenFMTjhQUG5jc1QxV2NUQmduRDhhVjQySjRvS0xobTh5UVlUTTR6M0ZPRDBiaUdtUjhyXC9FTmtYbFNuMytwQnpWXC9lYzk0K2pVOTVyMmxubnlwNHFFZmZtbHBKNjZpK3BaNk1vSnI3VjdqQkRYMzRJN1E3SmRZREZ2dTQrN1NMIn0%3D)
+- [Healthcare Cybersecurity and Communications Integration Center - Report on Ongoing SamSam Ransomware Campaigns - Mar 2018](https://www.aha.org/system/files/2018-04/corrected-HCCIC-2018-002W-SamSam-Ransomware-Campaign.pdf)
