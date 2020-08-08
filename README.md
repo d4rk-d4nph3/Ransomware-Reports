@@ -78,3 +78,16 @@ This repo is inspired from [threat-INTel](https://github.com/fdiskyou/threat-INT
 - [Intezer - WannaCry Ransomware: Potential Link to North Korea](https://www.intezer.com/wp-content/uploads/2017/07/Intezer-WannaCry.pdf)
 - [Department of Health: Investigation: WannaCry cyber attack and the NHS](https://www.nao.org.uk/wp-content/uploads/2017/10/Investigation-WannaCry-cyber-attack-and-the-NHS.pdf)
 - [Applying Diamond Model on WannaCry Ransomware Incident](https://apurvsinghgautam.me/blogfiles/applying_diamond_model_on_wannacry_ransomware_incident.html)
+
+## Dharma
+
+- [Carbon Black TAU Threat Analysis: Recent Dharma Ransomware Highlights Attackers’ Continued Use of Open-Source Tools - Jul 2018](https://www.carbonblack.com/blog/carbon-black-tau-threat-analysis-recent-dharma-ransomware-highlights-attackers-continued-use-open-source-tools/)
+- [Panda Security - Ransomware from the Crysis/Dharma family Report - Nov 2017](https://www.pandasecurity.com/mediacenter/src/uploads/2017/11/Ransomware_Crysis-Dharma-en.pdf)
+- [Comodo - Dharma 2.0 ransomware continues to wreak havoc with new variant - Mar 2020](https://blog.comodo.com/pc-security/dharma-2-0-ransomware-continues-with-new-variant/)
+- [DarkTrace - Old but still dangerous – Dharma ransomware via RDP intrusion - May 2020](https://www.darktrace.com/en/blog/old-but-still-dangerous-dharma-ransomware-via-rdp-intrusion/)
+- [Crowdstrike - Targeted Dharma Ransomware Intrusions Exhibit Consistent Techniques - Apr 2020](https://www.crowdstrike.com/blog/targeted-dharma-ransomware-intrusions-exhibit-consistent-techniques/)
+- [FortiNet - Dharma Ransomware: What It’s Teaching Us - Nov 2018](https://www.fortinet.com/blog/threat-research/dharma-ransomware--what-it-s-teaching-us)
+- [Cymulate - Immediate Threat Analysis – New Dharma Ransomware Strain Found in the Wild - Aug 2019](https://blog.cymulate.com/immediate-threat-analysis-new-dharma-ransomware)
+- [Quick Heal - An analysis of the Dharma ransomware outbreak by Quick Heal Security Labs - May 2018](https://blogs.quickheal.com/analysis-dharma-ransomware-outbreak-quick-heal-security-labs/)
+- [Quick Heal - Dharma Ransomware Variant Malspam Targeting COVID-19 - Apr 2020](https://blogs.quickheal.com/dharma-targeting-covid-19/)
+- [Dharma ransomware. 36 Variants listed. 2020 removal instructions - Aug 2020](https://www.2-spyware.com/remove-dharma-ransomware-virus.html)
