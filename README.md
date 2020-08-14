@@ -6,6 +6,10 @@ This repository serves as an archive of publicly available reports/whitepapers/a
 
 This repo is inspired from [threat-INTel](https://github.com/fdiskyou/threat-INTel) and [APTnotes](https://github.com/kbandla/APTnotes).
 
+## Disclaimer
+
+The content in this repository contains detailed analysis of the ransomware and not non-technical blogs about the ransomware like from Zdnet, Dark Reading, etc.
+
 ## Generic
 
 - [Sophos - THE STATE OF RANSOMWARE 2020 - May 2020](https://www.sophos.com/en-us/medialibrary/Gated-Assets/white-papers/sophos-the-state-of-ransomware-2020-wp.pdf)
