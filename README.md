@@ -40,6 +40,23 @@ The content in this repository contains detailed analysis of the ransomware and 
 - [Cyberinit Cognizant Hit by MAZE Ransomware - Apr 2020](https://e.cyberint.com/hubfs/Cognizant%20Hit%20by%20MAZE%20Ransomware-%20Report/Cyberint-Cognizant%20Hit%20by%20MAZE%20Ransomware-Report.pdf)
 - [Ransomware Attackers Use Your Cloud Backups Against You](https://www.bleepingcomputer.com/news/security/ransomware-attackers-use-your-cloud-backups-against-you/)
 
+## Ryuk
+
+- [VMware Carbon Black TAU: Ryuk Ransomware Technical Analysis - Feb 2020](https://www.carbonblack.com/blog/vmware-carbon-black-tau-ryuk-ransomware-technical-analysis/)
+- [Red Canary - The Third Amigo: detecting Ryuk ransomware - Feb 2020](https://redcanary.com/blog/ryuk-ransomware-attack/)
+- [FortiGuard Labs: Ryuk Revisited - Analysis of Recent Ryuk Attack - Mar 2020](https://www.fortinet.com/blog/threat-research/ryuk-revisited-analysis-of-recent-ryuk-attack)
+- [Checkpoint Research - Ryuk Ransomware: A Targeted Campaign Break-Down - Aug 2018](https://research.checkpoint.com/2018/ryuk-ransomware-targeted-campaign-break/)
+- [Malware News - Analysis of Ryuk Ransomware - Dec 2019](https://malware.news/t/analysis-of-ryuk-ransomware/35355)
+- [CISA Alert (TA17-132A) - Indicators Associated With WannaCry Ransomware - May 2017](https://us-cert.cisa.gov/ncas/alerts/TA17-132A)
+- [Security Literate - REVERSING RYUK: A TECHNICAL ANALYSIS OF RYUK RANSOMWARE - Apr 2020](https://securityliterate.com/reversing-ryuk-a-technical-analysis-of-ryuk-ransomware/)
+- [ZScaler - Examining the Ryuk Ransomware - Oct 2019](https://www.zscaler.com/blogs/research/examining-ryuk-ransomware)
+- [Crowdstrike - Big Game Hunting with Ryuk: Another Lucrative Targeted Ransomware - Jan 2019](https://www.crowdstrike.com/blog/big-game-hunting-with-ryuk-another-lucrative-targeted-ransomware/)
+- [HHS Cybersecurity Program - Ryuk Update - Jan 2020](https://www.hhs.gov/sites/default/files/ryuk-update.pdf)
+- [FBI Flash - Indicators of Compromise Associated with Ryuk Ransomware - May 2019](https://www.waterisac.org/system/files/articles/FLASH-MC-000103-MW-Ryuk.pdf)
+- [Homeland Security and Emergency Services - Threat Report: Emotet, TrickBot, and Ryuk](https://www.nyshfa-nyscal.org/files/2019/08/Notification_101809.pdf)
+- [RANSOMWARE PLAYBOOK A Special Incident Response Guide for Handling Ryuk Ransomware (Triple-Threat) Attacks - Oct 2019](https://dragonadvancetech.com/reports/Ransomware%20Playbook_v3.3.pdf)
+- [Securonix Threat Research - Securonix Threat Research: Detecting High-Impact Targeted Cloud/MSP $14M+ Ryuk and REvil Ransomware Attacks - Jan 2020](https://www.securonix.com/web/wp-content/uploads/2019/12/Securonix-Threat-Research-Cloud-MSP-Ryuk-REvil-Ransomware-Report.pdf)
+
 ## REvil (Sodinokibi)
 
 - [Cybereason - Sodinokibi: The Crown Prince of Ransomware - Aug 2019](https://www.cybereason.com/blog/the-sodinokibi-ransomware-attack)
