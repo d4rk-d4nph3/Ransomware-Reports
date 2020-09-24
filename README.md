@@ -22,6 +22,10 @@ The content in this repository contains detailed analysis of the ransomware and 
 - [Malwarebytes - CYBERCRIME TACTICS AND TECHNIQUES: Ransomware Retrospective - Aug 2019](https://resources.malwarebytes.com/files/2019/08/CTNT-2019-Ransomware_August_FINAL.pdf)
 - [McAfee - Targeted Ransomware No Longer a Future Threat - Feb 2016](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-targeted-ransomware.pdf)
 
+## ProLock
+
+- [Group-IB - Lock like a Pro: How Qakbot fuels enterprise ransomware campaigns](https://www.group-ib.com/whitepapers/prolock.html)
+
 ## Maze
 
 - [FireEye Navigating the MAZE: Tactics, Techniques and Procedures Associated With MAZE Ransomware Incidents - May 2020](https://www.fireeye.com/blog/threat-research/2020/05/tactics-techniques-procedures-associated-with-maze-ransomware-incidents.html)
