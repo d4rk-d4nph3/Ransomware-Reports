@@ -26,6 +26,10 @@ The content in this repository contains detailed analysis of the ransomware and 
 
 - [Group-IB - Lock like a Pro: How Qakbot fuels enterprise ransomware campaigns](https://www.group-ib.com/whitepapers/prolock.html)
 
+## Netwalker
+
+- [TrendMicro - Reflective Loading Runs Netwalker Fileless Ransomware - May 2020](https://www.trendmicro.com/en_us/research/20/e/netwalker-fileless-ransomware-injected-via-reflective-loading.html)
+
 ## Maze
 
 - [FireEye Navigating the MAZE: Tactics, Techniques and Procedures Associated With MAZE Ransomware Incidents - May 2020](https://www.fireeye.com/blog/threat-research/2020/05/tactics-techniques-procedures-associated-with-maze-ransomware-incidents.html)
