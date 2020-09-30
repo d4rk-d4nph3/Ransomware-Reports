@@ -64,6 +64,7 @@ The content in this repository contains detailed analysis of the ransomware and 
 - [Homeland Security and Emergency Services - Threat Report: Emotet, TrickBot, and Ryuk](https://www.nyshfa-nyscal.org/files/2019/08/Notification_101809.pdf)
 - [RANSOMWARE PLAYBOOK A Special Incident Response Guide for Handling Ryuk Ransomware (Triple-Threat) Attacks - Oct 2019](https://dragonadvancetech.com/reports/Ransomware%20Playbook_v3.3.pdf)
 - [Securonix Threat Research - Securonix Threat Research: Detecting High-Impact Targeted Cloud/MSP $14M+ Ryuk and REvil Ransomware Attacks - Jan 2020](https://www.securonix.com/web/wp-content/uploads/2019/12/Securonix-Threat-Research-Cloud-MSP-Ryuk-REvil-Ransomware-Report.pdf)
+- [CIS - Security Primer – Ryuk](https://www.cisecurity.org/white-papers/security-primer-ryuk/)
 
 ## REvil (Sodinokibi)
 
