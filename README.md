@@ -12,6 +12,7 @@ The content in this repository contains detailed analysis of the ransomware and 
 
 ## Generic
 
+- [Group-IB the evolution of ransomware and its distribution methods](https://go.group-ib.com/rs/689-LRE-818/images/Group-IB_Ransomware_whitepaper_eng.pdf?mkt_tok=eyJpIjoiTURRd09XRXhZVFpsTXpJMiIsInQiOiJveklIclN0d0dYWXl2ZFQ3XC9ZYVE3VEtcL3lJV0k0WkYzdXNyQkZoajFNWUpnN0FaTTJhaUhBaklDazdhQjRkWVJFVUxqeFhXRzlIZkpZQ2V5bkJzc1hSbkxxa0xXUHFaM2tsUW5CTE85V0JJT0g5NWw5eEFnR2t1TEprVDRcL2s2SCJ9)
 - [Sophos - THE STATE OF RANSOMWARE 2020 - May 2020](https://www.sophos.com/en-us/medialibrary/Gated-Assets/white-papers/sophos-the-state-of-ransomware-2020-wp.pdf)
 - [BitDefender - Ransomware A Victim’s Perspective: A study on US and European Internet Users - Jan 2016](https://download.bitdefender.com/resources/files/News/CaseStudies/study/59/Bitdefender-Ransomware-A-Victim-Perspective.pdf)
 - [Sophos - How Ransomware Attacks](https://www.sophos.com/en-us/medialibrary/PDFs/technical-papers/sophoslabs-ransomware-behavior-report.pdf)
