@@ -29,6 +29,7 @@ The content in this repository contains detailed analysis of the ransomware and 
 
 ## Netwalker
 
+- [DFIR Report - NetWalker Ransomware in 1 Hour - Aug 2020](https://thedfirreport.com/2020/08/31/netwalker-ransomware-in-1-hour/)
 - [TrendMicro - Reflective Loading Runs Netwalker Fileless Ransomware - May 2020](https://www.trendmicro.com/en_us/research/20/e/netwalker-fileless-ransomware-injected-via-reflective-loading.html)
 
 ## Maze
@@ -51,6 +52,8 @@ The content in this repository contains detailed analysis of the ransomware and 
 
 ## Ryuk
 
+- [DFIR Report - Ryuk's Return - Oct 2020](https://thedfirreport.com/2020/10/08/ryuks-return/)
+- [DFIR Report - Ryuk in 5 hours - Oct 2020](https://thedfirreport.com/2020/10/18/ryuk-in-5-hours/)
 - [VMware Carbon Black TAU: Ryuk Ransomware Technical Analysis - Feb 2020](https://www.carbonblack.com/blog/vmware-carbon-black-tau-ryuk-ransomware-technical-analysis/)
 - [Red Canary - The Third Amigo: detecting Ryuk ransomware - Feb 2020](https://redcanary.com/blog/ryuk-ransomware-attack/)
 - [FortiGuard Labs: Ryuk Revisited - Analysis of Recent Ryuk Attack - Mar 2020](https://www.fortinet.com/blog/threat-research/ryuk-revisited-analysis-of-recent-ryuk-attack)
