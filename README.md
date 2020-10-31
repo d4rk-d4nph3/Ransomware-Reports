@@ -52,6 +52,7 @@ The content in this repository contains detailed analysis of the ransomware and 
 
 ## Ryuk
 
+- [Sophos - They’re back: inside a new Ryuk ransomware attack - Oct 2020](https://news.sophos.com/en-us/2020/10/14/inside-a-new-ryuk-ransomware-attack/)
 - [DFIR Report - Ryuk's Return - Oct 2020](https://thedfirreport.com/2020/10/08/ryuks-return/)
 - [DFIR Report - Ryuk in 5 hours - Oct 2020](https://thedfirreport.com/2020/10/18/ryuk-in-5-hours/)
 - [VMware Carbon Black TAU: Ryuk Ransomware Technical Analysis - Feb 2020](https://www.carbonblack.com/blog/vmware-carbon-black-tau-ryuk-ransomware-technical-analysis/)
