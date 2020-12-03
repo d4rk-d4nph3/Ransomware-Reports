@@ -2,6 +2,7 @@
 [![Made with](https://img.shields.io/static/v1?label=Ransomware&message=Reports&color=blueviolet)](https://github.com/d4rk-d4nph3/Ransomware-Reports)
 [![Made with](https://img.shields.io/static/v1?label=Contribution&message=Welcomed&color=green)](https://github.com/d4rk-d4nph3/Ransomware-Reports)
 
+![image](https://user-images.githubusercontent.com/61026070/101016029-599dab00-3590-11eb-81e5-1426d770da1d.png)
 ![image](https://user-images.githubusercontent.com/61026070/100091146-57469d00-2e7c-11eb-82f9-f05ff269aab8.png)
 
 This repository serves as an archive of publicly available reports/whitepapers/articles related to Ransomware. This might be useful for researchers as a reference as I didn't find a central repository containing these reports.
