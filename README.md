@@ -4,6 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/61026070/101016029-599dab00-3590-11eb-81e5-1426d770da1d.png)
 ![image](https://user-images.githubusercontent.com/61026070/100091146-57469d00-2e7c-11eb-82f9-f05ff269aab8.png)
+![image](https://user-images.githubusercontent.com/61026070/101498365-1ed2b300-3994-11eb-9cc1-c79dc2ee9a56.png)
 
 This repository serves as an archive of publicly available reports/whitepapers/articles related to Ransomware. This might be useful for researchers as a reference as I didn't find a central repository containing these reports.
 
@@ -12,6 +13,8 @@ This repo is inspired from [threat-INTel](https://github.com/fdiskyou/threat-INT
 ## Disclaimer
 
 The content in this repository contains detailed analysis of the ransomware and not non-technical blogs about the ransomware like from Zdnet, Dark Reading, etc.
+
+Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are extensively used here.
 
 ## Generic
 
@@ -56,6 +59,7 @@ The content in this repository contains detailed analysis of the ransomware and 
 
 ## Ryuk
 
+- [Malwation - RYUK Ransomware Technical Analysis Report - 2020](https://malwation.com/wp-content/uploads/2020/11/RYUK-EN.pdf)
 - [Red Canary - A Bazar start: How one hospital thwarted a Ryuk ransomware outbreak - Nov 2020](https://redcanary.com/blog/how-one-hospital-thwarted-a-ryuk-ransomware-outbreak/)
 - [Sophos - They’re back: inside a new Ryuk ransomware attack - Oct 2020](https://news.sophos.com/en-us/2020/10/14/inside-a-new-ryuk-ransomware-attack/)
 - [DFIR Report - Ryuk's Return - Oct 2020](https://thedfirreport.com/2020/10/08/ryuks-return/)
