@@ -39,6 +39,12 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 - [DFIR Report - NetWalker Ransomware in 1 Hour - Aug 2020](https://thedfirreport.com/2020/08/31/netwalker-ransomware-in-1-hour/)
 - [TrendMicro - Reflective Loading Runs Netwalker Fileless Ransomware - May 2020](https://www.trendmicro.com/en_us/research/20/e/netwalker-fileless-ransomware-injected-via-reflective-loading.html)
 
+## Egregor
+
+- [Group-IB – Egregor ransomware: The legacy of Maze lives on – Nov 2020](https://www.group-ib.com/whitepapers/egregor-ransomware.html?utm_source=group-ib&utm_medium=blog&utm_content=eng)
+- [Cybereason – Cybereason vs. Egregor Ransomware – Nov 2020](https://www.cybereason.com/blog/cybereason-vs-egregor-ransomware)
+- [Cyble – EGREGOR RANSOMWARE – A DEEP DIVE INTO ITS ACTIVITIES AND TECHNIQUES – Oct 2020](https://cybleinc.com/2020/10/31/egregor-ransomware-a-deep-dive-into-its-activities-and-techniques/)
+
 ## Maze
 
 - [FireEye Navigating the MAZE: Tactics, Techniques and Procedures Associated With MAZE Ransomware Incidents - May 2020](https://www.fireeye.com/blog/threat-research/2020/05/tactics-techniques-procedures-associated-with-maze-ransomware-incidents.html)
