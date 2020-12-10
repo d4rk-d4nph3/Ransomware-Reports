@@ -68,6 +68,7 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 ## Ryuk
 
 - [Malwation - RYUK Ransomware Technical Analysis Report - 2020](https://malwation.com/wp-content/uploads/2020/11/RYUK-EN.pdf)
+- [LogPoint – Comprehensive Detection of Ryuk Ransomware - Nov 2020](https://www.logpoint.com/en/blog/ryuk-ransomware/)
 - [Red Canary - A Bazar start: How one hospital thwarted a Ryuk ransomware outbreak - Nov 2020](https://redcanary.com/blog/how-one-hospital-thwarted-a-ryuk-ransomware-outbreak/)
 - [Sophos - They’re back: inside a new Ryuk ransomware attack - Oct 2020](https://news.sophos.com/en-us/2020/10/14/inside-a-new-ryuk-ransomware-attack/)
 - [DFIR Report - Ryuk's Return - Oct 2020](https://thedfirreport.com/2020/10/08/ryuks-return/)
