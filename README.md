@@ -18,6 +18,8 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 
 ## Generic
 
+- [FireEye - The Evolving Maturity in Ransomware Operations: A Black Hat Europe 2020 Whitepaper - Dec 2020](https://i.blackhat.com/eu-20/Wednesday/eu-20-Clarke-Its-Not-FINished-The-Evolving-Maturity-In-Ransomware-Operations-wp.pdf)
+- [FireEye - It's not FINished - The Evolving Maturity in Ransomware Operations - 2020](https://i.blackhat.com/eu-20/Wednesday/eu-20-Clarke-Its-Not-FINished-The-Evolving-Maturity-In-Ransomware-Operations.pdf)
 - [Datto - Global State of the Channel Ransomware Report - Nov 2020](https://www.datto.com/resource-downloads/Datto-State-of-the-Channel-Ransomware-Report-v2-1.pdf)
 - [Group-IB the evolution of ransomware and its distribution methods](https://go.group-ib.com/rs/689-LRE-818/images/Group-IB_Ransomware_whitepaper_eng.pdf?mkt_tok=eyJpIjoiTURRd09XRXhZVFpsTXpJMiIsInQiOiJveklIclN0d0dYWXl2ZFQ3XC9ZYVE3VEtcL3lJV0k0WkYzdXNyQkZoajFNWUpnN0FaTTJhaUhBaklDazdhQjRkWVJFVUxqeFhXRzlIZkpZQ2V5bkJzc1hSbkxxa0xXUHFaM2tsUW5CTE85V0JJT0g5NWw5eEFnR2t1TEprVDRcL2s2SCJ9)
 - [Sophos - THE STATE OF RANSOMWARE 2020 - May 2020](https://www.sophos.com/en-us/medialibrary/Gated-Assets/white-papers/sophos-the-state-of-ransomware-2020-wp.pdf)
