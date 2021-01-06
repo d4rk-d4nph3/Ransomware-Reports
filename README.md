@@ -18,6 +18,7 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 
 ## Generic
 
+- [Hunters after ransomwares - Jul 2020](https://forensixchange.com/posts/20_07_13_ransomware/)
 - [FireEye - The Evolving Maturity in Ransomware Operations: A Black Hat Europe 2020 Whitepaper - Dec 2020](https://i.blackhat.com/eu-20/Wednesday/eu-20-Clarke-Its-Not-FINished-The-Evolving-Maturity-In-Ransomware-Operations-wp.pdf)
 - [FireEye - It's not FINished - The Evolving Maturity in Ransomware Operations - 2020](https://i.blackhat.com/eu-20/Wednesday/eu-20-Clarke-Its-Not-FINished-The-Evolving-Maturity-In-Ransomware-Operations.pdf)
 - [Datto - Global State of the Channel Ransomware Report - Nov 2020](https://www.datto.com/resource-downloads/Datto-State-of-the-Channel-Ransomware-Report-v2-1.pdf)
