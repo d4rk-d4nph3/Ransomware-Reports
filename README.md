@@ -4,6 +4,9 @@
 
 ![image](https://user-images.githubusercontent.com/61026070/101016029-599dab00-3590-11eb-81e5-1426d770da1d.png)
 ![image](https://user-images.githubusercontent.com/61026070/100091146-57469d00-2e7c-11eb-82f9-f05ff269aab8.png)
+![image](https://user-images.githubusercontent.com/61026070/109959042-0e21a700-7d0f-11eb-9262-5775c4230779.png)
+![image](https://user-images.githubusercontent.com/61026070/109959086-21cd0d80-7d0f-11eb-9337-65dbe61cd270.png)
+![image](https://user-images.githubusercontent.com/61026070/109959097-24c7fe00-7d0f-11eb-945e-0928b31128d5.png)
 ![image](https://user-images.githubusercontent.com/61026070/101498365-1ed2b300-3994-11eb-9cc1-c79dc2ee9a56.png)
 
 This repository serves as an archive of publicly available reports/whitepapers/articles related to Ransomware. This might be useful for researchers as a reference as I didn't find a central repository containing these reports.
