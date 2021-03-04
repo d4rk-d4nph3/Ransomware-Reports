@@ -18,6 +18,7 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 
 ## Generic
 
+- [Group-IB - Ransomware Uncovered 2020/2021 - Mar 2021](https://www.group-ib.com/resources/threat-research/ransomware-2021.html)
 - [Hunters after ransomwares - Jul 2020](https://forensixchange.com/posts/20_07_13_ransomware/)
 - [FireEye - The Evolving Maturity in Ransomware Operations: A Black Hat Europe 2020 Whitepaper - Dec 2020](https://i.blackhat.com/eu-20/Wednesday/eu-20-Clarke-Its-Not-FINished-The-Evolving-Maturity-In-Ransomware-Operations-wp.pdf)
 - [FireEye - It's not FINished - The Evolving Maturity in Ransomware Operations - 2020](https://i.blackhat.com/eu-20/Wednesday/eu-20-Clarke-Its-Not-FINished-The-Evolving-Maturity-In-Ransomware-Operations.pdf)
@@ -41,6 +42,10 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 
 - [DFIR Report - NetWalker Ransomware in 1 Hour - Aug 2020](https://thedfirreport.com/2020/08/31/netwalker-ransomware-in-1-hour/)
 - [TrendMicro - Reflective Loading Runs Netwalker Fileless Ransomware - May 2020](https://www.trendmicro.com/en_us/research/20/e/netwalker-fileless-ransomware-injected-via-reflective-loading.html)
+
+## Babuk
+
+- [McAfee - Technical Analysis of Babuk Ransomware - Feb 2021](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-babuk-ransomware.pdf)
 
 ## Egregor
 
