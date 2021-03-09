@@ -76,6 +76,7 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 
 ## Ryuk
 
+- [Abdallah Elshinbary - Deep Analysis of Ryuk Ransomware](https://n1ght-w0lf.github.io/malware%20analysis/ryuk-ransomware)
 - [Malwation - RYUK Ransomware Technical Analysis Report - 2020](https://malwation.com/wp-content/uploads/2020/11/RYUK-EN.pdf)
 - [LogPoint – Comprehensive Detection of Ryuk Ransomware - Nov 2020](https://www.logpoint.com/en/blog/ryuk-ransomware/)
 - [Red Canary - A Bazar start: How one hospital thwarted a Ryuk ransomware outbreak - Nov 2020](https://redcanary.com/blog/how-one-hospital-thwarted-a-ryuk-ransomware-outbreak/)
