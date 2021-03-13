@@ -4,6 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/61026070/101016029-599dab00-3590-11eb-81e5-1426d770da1d.png)
 ![image](https://user-images.githubusercontent.com/61026070/100091146-57469d00-2e7c-11eb-82f9-f05ff269aab8.png)
+<img width="1267" alt="Screen Shot 2021-03-13 at 18 50 26" src="https://user-images.githubusercontent.com/61026070/111030977-5b97c580-842d-11eb-8134-52e971279a60.png">
 ![image](https://user-images.githubusercontent.com/61026070/109959042-0e21a700-7d0f-11eb-9262-5775c4230779.png)
 ![image](https://user-images.githubusercontent.com/61026070/109959086-21cd0d80-7d0f-11eb-9337-65dbe61cd270.png)
 ![image](https://user-images.githubusercontent.com/61026070/109959097-24c7fe00-7d0f-11eb-945e-0928b31128d5.png)
@@ -21,6 +22,7 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 
 ## Generic
 
+- [Trend Micro - THE STATE OF RANSOMWARE 2020’s Catch-22 - Feb 2021](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/the-state-of-ransomware-2020-s-catch-22)
 - [Group-IB - Ransomware Uncovered 2020/2021 - Mar 2021](https://www.group-ib.com/resources/threat-research/ransomware-2021.html)
 - [Hunters after ransomwares - Jul 2020](https://forensixchange.com/posts/20_07_13_ransomware/)
 - [FireEye - The Evolving Maturity in Ransomware Operations: A Black Hat Europe 2020 Whitepaper - Dec 2020](https://i.blackhat.com/eu-20/Wednesday/eu-20-Clarke-Its-Not-FINished-The-Evolving-Maturity-In-Ransomware-Operations-wp.pdf)
