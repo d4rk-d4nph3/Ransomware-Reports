@@ -24,6 +24,7 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 ## Generic
 
 - [Emisoft - Ransomware statistics for 2020: Year in summary - Mar 2021](https://blog.emsisoft.com/en/38259/ransomware-statistics-for-2020-year-in-summary/)
+- [Threatpost - 2021: The Evolution of Ransomware - Apr 2021](https://threatpost.com/ebooks/2021-the-evolution-of-ransomware)
 - [Trend Micro - THE STATE OF RANSOMWARE 2020’s Catch-22 - Feb 2021](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/the-state-of-ransomware-2020-s-catch-22)
 - [Group-IB - Ransomware Uncovered 2020/2021 - Mar 2021](https://www.group-ib.com/resources/threat-research/ransomware-2021.html)
 - [Hunters after ransomwares - Jul 2020](https://forensixchange.com/posts/20_07_13_ransomware/)
