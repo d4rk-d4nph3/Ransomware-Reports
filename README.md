@@ -80,6 +80,7 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 
 ## Ryuk
 
+- [Adversary Dossier: Ryuk Ransomware Anatomy of an Attack in 2021 - Apr 2021](https://www.advanced-intel.com/post/adversary-dossier-ryuk-ransomware-anatomy-of-an-attack-in-2021)
 - [Abdallah Elshinbary - Deep Analysis of Ryuk Ransomware](https://n1ght-w0lf.github.io/malware%20analysis/ryuk-ransomware)
 - [Malwation - RYUK Ransomware Technical Analysis Report - 2020](https://malwation.com/wp-content/uploads/2020/11/RYUK-EN.pdf)
 - [LogPoint – Comprehensive Detection of Ryuk Ransomware - Nov 2020](https://www.logpoint.com/en/blog/ryuk-ransomware/)
