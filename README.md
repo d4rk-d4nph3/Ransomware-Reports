@@ -41,6 +41,13 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 - [SentinelOne - RANSOMWARE RESEARCH DATA SUMMARY - 2016](https://go.sentinelone.com/rs/327-MNM-087/images/Data%20Summary%20-%20English.pdf)
 - [Malwarebytes - CYBERCRIME TACTICS AND TECHNIQUES: Ransomware Retrospective - Aug 2019](https://resources.malwarebytes.com/files/2019/08/CTNT-2019-Ransomware_August_FINAL.pdf)
 - [McAfee - Targeted Ransomware No Longer a Future Threat - Feb 2016](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-targeted-ransomware.pdf)
+- [Ransomware And Data Leak Site Publication Time Analysis - Apr 2021](https://vulnerability.ch/2021/04/ransomware-and-date-leak-site-publication-time-analysis/)
+
+## DarkSide
+
+- [Zawadi Done - DarkSide ransomware analysis - Oct 2020](https://zawadidone.nl/2020/10/05/darkside-ransomware-analysis.html)
+- [DarkSide Hand-Ransomware - Aug 2020](https://id-ransomware.blogspot.com/2020/08/darkside-ransomware.html)
+- [Varonis - Return of the Darkside: Analysis of a Large-Scale Data Theft Campaign - Mar 2021](https://www.varonis.com/blog/darkside-ransomware/)
 
 ## ProLock
 
