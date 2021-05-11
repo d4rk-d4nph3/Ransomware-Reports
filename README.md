@@ -25,6 +25,7 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 
 ## Generic
 
+- [Darktracer - Intelligence Report on Ransomware Gangs on the Dark Web](https://drive.google.com/file/d/1MI8Z2tBhmqQ5X8Wf_ozv3dVjz5sJOs-3/view)
 - [FSecure - Attack landscape update: Ransomware 2.0, automated recon, and supply chain attacks - Mar 2021](https://blog.f-secure.com/attack-landscape-update-h1-2021)
 - [Emisoft - Ransomware statistics for 2020: Year in summary - Mar 2021](https://blog.emsisoft.com/en/38259/ransomware-statistics-for-2020-year-in-summary/)
 - [Threatpost - 2021: The Evolution of Ransomware - Apr 2021](https://threatpost.com/ebooks/2021-the-evolution-of-ransomware)
