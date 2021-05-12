@@ -49,6 +49,7 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 
 ## DarkSide
 
+- [FireEye - Shining a Light on DARKSIDE Ransomware Operations - May 2021](https://www.fireeye.com/blog/threat-research/2021/05/shining-a-light-on-darkside-ransomware-operations.html)
 - [Zawadi Done - DarkSide ransomware analysis - Oct 2020](https://zawadidone.nl/2020/10/05/darkside-ransomware-analysis.html)
 - [DarkSide Hand-Ransomware - Aug 2020](https://id-ransomware.blogspot.com/2020/08/darkside-ransomware.html)
 - [Varonis - Return of the Darkside: Analysis of a Large-Scale Data Theft Campaign - Mar 2021](https://www.varonis.com/blog/darkside-ransomware/)
