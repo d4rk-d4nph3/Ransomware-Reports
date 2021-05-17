@@ -54,6 +54,16 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 - [DarkSide Hand-Ransomware - Aug 2020](https://id-ransomware.blogspot.com/2020/08/darkside-ransomware.html)
 - [Varonis - Return of the Darkside: Analysis of a Large-Scale Data Theft Campaign - Mar 2021](https://www.varonis.com/blog/darkside-ransomware/)
 
+## Avaddon
+
+- [Acronis - Avaddon ransomware cleans the bin for you](https://www.acronis.com/en-us/articles/avaddon-ransomware/)
+- [AWAKE - Threat Hunting for Avaddon Ransomware](https://awakesecurity.com/blog/threat-hunting-for-avaddon-ransomware/)
+- [Cybereason - Cybereason vs. Avaddon Ransomware - Apr 2021](https://www.cybereason.com/blog/cybereason-vs.-avaddon-ransomware)
+- [SUBEX - Avaddon Ransomware - Jun 2020](https://www.subexsecure.com/pdf/malware-reports/June-2020/Avaddon_Ransomware.pdf)
+- [FBI Flash - CU-000145-MW - May 2021](https://agileblue.com/wp-content/uploads/2021/05/flash_avaddon_ransomware.pdf)
+- [TrendMicro - Ransomware Report: Avaddon and New Techniques Emerge, Industrial Sector Targeted - Jul 2020](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/ransomware-report-avaddon-and-new-techniques-emerge-industrial-sector-targeted)
+- [Avaddon ransomware: an in-depth analysis and decryption of infected systems - Feb 2021](https://arxiv.org/pdf/2102.04796.pdf)
+
 ## ProLock
 
 - [Group-IB - Lock like a Pro: How Qakbot fuels enterprise ransomware campaigns](https://www.group-ib.com/whitepapers/prolock.html)
