@@ -64,6 +64,15 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 - [TrendMicro - Ransomware Report: Avaddon and New Techniques Emerge, Industrial Sector Targeted - Jul 2020](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/ransomware-report-avaddon-and-new-techniques-emerge-industrial-sector-targeted)
 - [Avaddon ransomware: an in-depth analysis and decryption of infected systems - Feb 2021](https://arxiv.org/pdf/2102.04796.pdf)
 
+## Conti
+
+- [THE DFIR REPORT - Conti Ransomware - May 2021](https://thedfirreport.com/2021/05/12/conti-ransomware/)
+- [Malware News - Conti Ransomware - May 2021](https://malware.news/t/conti-ransomware/49008)
+- [NCSC - Ransomware Attack on Health Sector - May 2021](https://www.ncsc.gov.ie/pdfs/HSE_Conti_140521_UPDATE.pdf)
+- [TrendMicro - Trend Micro Vision One: Tracking Conti Ransomware - Mar 2021](https://www.trendmicro.com/en_us/research/21/c/vision-one-tracking-conti-ransomware.html)
+- [Carbon Black - TAU Threat Discovery: Conti Ransomware - Jul 2020](https://www.carbonblack.com/blog/tau-threat-discovery-conti-ransomware/)
+- [Vipre - How Conti Ransomware Works and Our Analysis - Mar 2021](https://labs.vipre.com/how-conti-ransomware-works-and-our-analysis)
+
 ## ProLock
 
 - [Group-IB - Lock like a Pro: How Qakbot fuels enterprise ransomware campaigns](https://www.group-ib.com/whitepapers/prolock.html)
