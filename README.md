@@ -25,6 +25,7 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 
 ## Generic
 
+- [Analyst1 - RANSOM MAFIA. ANALYSIS OF THE WORLD’S FIRST RANSOMWARE CARTEL - Apr 2021](https://analyst1.com/file-assets/RANSOM-MAFIA-ANALYSIS-OF-THE-WORLD%E2%80%99S-FIRST-RANSOMWARE-CARTEL.pdf)
 - [Darktracer - Intelligence Report on Ransomware Gangs on the Dark Web](https://drive.google.com/file/d/1MI8Z2tBhmqQ5X8Wf_ozv3dVjz5sJOs-3/view)
 - [FSecure - Attack landscape update: Ransomware 2.0, automated recon, and supply chain attacks - Mar 2021](https://blog.f-secure.com/attack-landscape-update-h1-2021)
 - [Emisoft - Ransomware statistics for 2020: Year in summary - Mar 2021](https://blog.emsisoft.com/en/38259/ransomware-statistics-for-2020-year-in-summary/)
@@ -46,7 +47,7 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 - [Malwarebytes - CYBERCRIME TACTICS AND TECHNIQUES: Ransomware Retrospective - Aug 2019](https://resources.malwarebytes.com/files/2019/08/CTNT-2019-Ransomware_August_FINAL.pdf)
 - [McAfee - Targeted Ransomware No Longer a Future Threat - Feb 2016](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-targeted-ransomware.pdf)
 - [Ransomware And Data Leak Site Publication Time Analysis - Apr 2021](https://vulnerability.ch/2021/04/ransomware-and-date-leak-site-publication-time-analysis/)
-
+- [PwC - Responding to the growing threat of human-operated ransomware attack - 2020](https://www.pwc.fr/fr/assets/files/pdf/2021/02/en-france-pwc-ransomware-livre-blanc-2021.pdf)
 ## DarkSide
 
 - [FireEye - Shining a Light on DARKSIDE Ransomware Operations - May 2021](https://www.fireeye.com/blog/threat-research/2021/05/shining-a-light-on-darkside-ransomware-operations.html)
@@ -72,6 +73,7 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 - [TrendMicro - Trend Micro Vision One: Tracking Conti Ransomware - Mar 2021](https://www.trendmicro.com/en_us/research/21/c/vision-one-tracking-conti-ransomware.html)
 - [Carbon Black - TAU Threat Discovery: Conti Ransomware - Jul 2020](https://www.carbonblack.com/blog/tau-threat-discovery-conti-ransomware/)
 - [Vipre - How Conti Ransomware Works and Our Analysis - Mar 2021](https://labs.vipre.com/how-conti-ransomware-works-and-our-analysis)
+- [ClearSky - CONTI Modus Operndi and Bitcoin Tracking - Feb 2021](https://www.clearskysec.com/wp-content/uploads/2021/02/Conti-Ransomware.pdf)
 
 ## ProLock
 
