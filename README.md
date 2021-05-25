@@ -25,6 +25,7 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 
 ## Generic
 
+- [Sophos - The State of Ransomware 2021 - 2021](https://secure2.sophos.com/en-us/medialibrary/pdfs/whitepaper/sophos-state-of-ransomware-2021-wp.pdf)
 - [Analyst1 - RANSOM MAFIA. ANALYSIS OF THE WORLD’S FIRST RANSOMWARE CARTEL - Apr 2021](https://analyst1.com/file-assets/RANSOM-MAFIA-ANALYSIS-OF-THE-WORLD%E2%80%99S-FIRST-RANSOMWARE-CARTEL.pdf)
 - [Darktracer - Intelligence Report on Ransomware Gangs on the Dark Web](https://drive.google.com/file/d/1MI8Z2tBhmqQ5X8Wf_ozv3dVjz5sJOs-3/view)
 - [FSecure - Attack landscape update: Ransomware 2.0, automated recon, and supply chain attacks - Mar 2021](https://blog.f-secure.com/attack-landscape-update-h1-2021)
