@@ -5,6 +5,8 @@
 ![image](https://user-images.githubusercontent.com/61026070/101016029-599dab00-3590-11eb-81e5-1426d770da1d.png)
 ![image](https://user-images.githubusercontent.com/61026070/111995083-a22da400-8b40-11eb-8af0-5ccdf0c9350e.png)
 ![image](https://user-images.githubusercontent.com/61026070/100091146-57469d00-2e7c-11eb-82f9-f05ff269aab8.png)
+<img width="946" alt="Screen Shot 2021-06-04 at 10 43 16" src="https://user-images.githubusercontent.com/61026070/120747996-be2aca00-c521-11eb-9a0c-4c920c6d64b1.png">
+<img width="944" alt="Screen Shot 2021-06-04 at 10 43 24" src="https://user-images.githubusercontent.com/61026070/120748009-c2ef7e00-c521-11eb-809f-c9f35f1618c0.png">
 ![image](https://user-images.githubusercontent.com/61026070/117789715-5659ca00-b268-11eb-9f2b-ce94ff93bab2.png)
 ![image](https://user-images.githubusercontent.com/61026070/117790096-be101500-b268-11eb-99af-060c043d4824.png)
 <img width="1267" alt="Screen Shot 2021-03-13 at 18 50 26" src="https://user-images.githubusercontent.com/61026070/111030977-5b97c580-842d-11eb-8134-52e971279a60.png">
@@ -75,6 +77,16 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 - [Carbon Black - TAU Threat Discovery: Conti Ransomware - Jul 2020](https://www.carbonblack.com/blog/tau-threat-discovery-conti-ransomware/)
 - [Vipre - How Conti Ransomware Works and Our Analysis - Mar 2021](https://labs.vipre.com/how-conti-ransomware-works-and-our-analysis)
 - [ClearSky - CONTI Modus Operndi and Bitcoin Tracking - Feb 2021](https://www.clearskysec.com/wp-content/uploads/2021/02/Conti-Ransomware.pdf)
+
+## Clop
+
+- [Sequretek - CLOP RANSOMWARE - Oct 2020](https://sequretek.com/wp-content/uploads/2018/10/Sequretek-Advisory-Clop-Ransomware_.pdf)
+- [McAfee - Clop Ransomware - Aug 2019](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/clop-ransomware/)
+- [Ahnlab - CLOP Ransomware that Attacked Korean Distribution Giant - Jan 2021](https://asec.ahnlab.com/en/19542/)
+- [Cybereason - Cybereason vs. Clop Ransomware - Dec 2020](https://www.cybereason.com/blog/cybereason-vs.-clop-ransomware)
+- [Hornet Security - Clop, Clop! It’s a TA505 HTML malspam analysis - Jul 2020](https://www.hornetsecurity.com/en/security-information/clop-clop-ta505-html-malspam-analysis/)
+- [NCCGroup - TA505: A Brief History Of Their Time - Nov 2020](https://research.nccgroup.com/2020/11/18/ta505-a-brief-history-of-their-time/)
+- [ProofPoint - TA505 Distributes New SDBbot Remote Access Trojan with Get2 Downloader - Oct 2019](https://www.proofpoint.com/us/threat-insight/post/ta505-distributes-new-sdbbot-remote-access-trojan-get2-downloader)
 
 ## ProLock
 
