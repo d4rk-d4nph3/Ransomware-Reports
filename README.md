@@ -53,6 +53,7 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 - [PwC - Responding to the growing threat of human-operated ransomware attack - 2020](https://www.pwc.fr/fr/assets/files/pdf/2021/02/en-france-pwc-ransomware-livre-blanc-2021.pdf)
 ## DarkSide
 
+- [PICUS - Illuminating Darkside - Jun 2021](https://media-exp1.licdn.com/dms/document/C4E1FAQH7qgjCN8BUeg/feedshare-document-pdf-analyzed/0/1624643470048?e=1624942800&v=beta&t=wOZeGbu1HE66QHj1tNRsBQ_OhWcWUyw53J5H9wc9JHY)
 - [FireEye - Shining a Light on DARKSIDE Ransomware Operations - May 2021](https://www.fireeye.com/blog/threat-research/2021/05/shining-a-light-on-darkside-ransomware-operations.html)
 - [Zawadi Done - DarkSide ransomware analysis - Oct 2020](https://zawadidone.nl/2020/10/05/darkside-ransomware-analysis.html)
 - [DarkSide Hand-Ransomware - Aug 2020](https://id-ransomware.blogspot.com/2020/08/darkside-ransomware.html)
