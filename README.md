@@ -78,6 +78,7 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 - [Carbon Black - TAU Threat Discovery: Conti Ransomware - Jul 2020](https://www.carbonblack.com/blog/tau-threat-discovery-conti-ransomware/)
 - [Vipre - How Conti Ransomware Works and Our Analysis - Mar 2021](https://labs.vipre.com/how-conti-ransomware-works-and-our-analysis)
 - [ClearSky - CONTI Modus Operndi and Bitcoin Tracking - Feb 2021](https://www.clearskysec.com/wp-content/uploads/2021/02/Conti-Ransomware.pdf)
+- [Cyber Geeks - DISSECTING THE LAST VERSION OF CONTI RANSOMWARE USING A STEP-BY-STEP APPROACH - Jul 2021](https://cybergeeks.tech/dissecting-the-last-version-of-conti-ransomware-using-a-step-by-step-approach/)
 
 ## Clop
 
