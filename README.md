@@ -71,6 +71,7 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 
 ## Conti
 
+- [Sophos - Conti affiliates use ProxyShell Exchange exploit in ransomware attacks - Sep 2021](https://news.sophos.com/en-us/2021/09/03/conti-affiliates-use-proxyshell-exchange-exploit-in-ransomware-attacks/?cmp=30728)
 - [THE DFIR REPORT - Conti Ransomware - May 2021](https://thedfirreport.com/2021/05/12/conti-ransomware/)
 - [Malware News - Conti Ransomware - May 2021](https://malware.news/t/conti-ransomware/49008)
 - [NCSC - Ransomware Attack on Health Sector - May 2021](https://www.ncsc.gov.ie/pdfs/HSE_Conti_140521_UPDATE.pdf)
