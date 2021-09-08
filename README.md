@@ -156,6 +156,7 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 
 ## REvil (Sodinokibi)
 
+- [REvil Ransomware Malware Analysis](https://www.threatmonit.io/revil-ransomware-malware-analysis/)
 - [Group-IB - REvil Twins Deep Dive into Prolific RaaS Affiliates' TTPs - Jun 2021](https://blog.group-ib.com/revil_raas)
 - [Cybereason - Sodinokibi: The Crown Prince of Ransomware - Aug 2019](https://www.cybereason.com/blog/the-sodinokibi-ransomware-attack)
 - [Secureworks - REvil/Sodinokibi Ransomware - Sep 2019](https://www.secureworks.com/research/revil-sodinokibi-ransomware)
