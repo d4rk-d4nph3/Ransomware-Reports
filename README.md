@@ -59,6 +59,12 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 - [DarkSide Hand-Ransomware - Aug 2020](https://id-ransomware.blogspot.com/2020/08/darkside-ransomware.html)
 - [Varonis - Return of the Darkside: Analysis of a Large-Scale Data Theft Campaign - Mar 2021](https://www.varonis.com/blog/darkside-ransomware/)
 
+## BlackMatter [Previously DarkSide]
+
+- [McAfee - BlackMatter Ransomware Analysis; The Dark Side Returns - Sep 2021](https://www.mcafee.com/blogs/enterprise/mcafee-enterprise-atr/blackmatter-ransomware-analysis-the-dark-side-returns/)
+- [Nozomi - BlackMatter Ransomware Technical Analysis and Tools from Nozomi Networks Labs - Sep 2021](https://www.nozominetworks.com/blog/blackmatter-ransomware-technical-analysis-and-tools-from-nozomi-networks-labs/)
+- [Cyble - Dissecting BlackMatter Ransomware - Aug 2021](https://blog.cyble.com/2021/08/05/dissecting-blackmatter-ransomware/)
+
 ## Avaddon
 
 - [Acronis - Avaddon ransomware cleans the bin for you](https://www.acronis.com/en-us/articles/avaddon-ransomware/)
