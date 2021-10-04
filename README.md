@@ -27,6 +27,7 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 
 ## Generic
 
+- [McAfee -  Advanced Threat Research Report: October 2021 - Oct 2021](https://www.mcafee.com/enterprise/en-us/lp/threats-reports/oct-2021.html)
 - [Sophos - The State of Ransomware 2021 - 2021](https://secure2.sophos.com/en-us/medialibrary/pdfs/whitepaper/sophos-state-of-ransomware-2021-wp.pdf)
 - [Analyst1 - RANSOM MAFIA. ANALYSIS OF THE WORLD’S FIRST RANSOMWARE CARTEL - Apr 2021](https://analyst1.com/file-assets/RANSOM-MAFIA-ANALYSIS-OF-THE-WORLD%E2%80%99S-FIRST-RANSOMWARE-CARTEL.pdf)
 - [Darktracer - Intelligence Report on Ransomware Gangs on the Dark Web](https://drive.google.com/file/d/1MI8Z2tBhmqQ5X8Wf_ozv3dVjz5sJOs-3/view)
