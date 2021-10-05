@@ -78,6 +78,9 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 
 ## Conti
 
+- [THE DFIR REPORT - BazarLoader and the Conti Leaks - Oct 2021](https://thedfirreport.com/2021/10/04/bazarloader-and-the-conti-leaks/)
+- [THE DFIR REPORT - BazarLoader to Conti Ransomware in 32 Hours - Sep 2021](https://thedfirreport.com/2021/09/13/bazarloader-to-conti-ransomware-in-32-hours/)
+- [THE DFIR REPORT - BazarCall to Conti Ransomware via Trickbot and Cobalt Strike - Aug 2021](https://thedfirreport.com/2021/08/01/bazarcall-to-conti-ransomware-via-trickbot-and-cobalt-strike/)
 - [Sophos - Conti affiliates use ProxyShell Exchange exploit in ransomware attacks - Sep 2021](https://news.sophos.com/en-us/2021/09/03/conti-affiliates-use-proxyshell-exchange-exploit-in-ransomware-attacks/?cmp=30728)
 - [THE DFIR REPORT - Conti Ransomware - May 2021](https://thedfirreport.com/2021/05/12/conti-ransomware/)
 - [Malware News - Conti Ransomware - May 2021](https://malware.news/t/conti-ransomware/49008)
