@@ -4,6 +4,9 @@
 
 ![image](https://user-images.githubusercontent.com/61026070/101016029-599dab00-3590-11eb-81e5-1426d770da1d.png)
 ![image](https://user-images.githubusercontent.com/61026070/111995083-a22da400-8b40-11eb-8af0-5ccdf0c9350e.png)
+<img width="1034" alt="Screen Shot 2021-10-05 at 13 18 56" src="https://user-images.githubusercontent.com/61026070/135979899-3f267ec3-6ec4-48cd-96ee-adc6520a722e.png">
+<p align=center><i>VirusTotal's RANSOMWARE IN A GLOBAL CONTEXT, Oct 2021</i></p>
+
 ![image](https://user-images.githubusercontent.com/61026070/100091146-57469d00-2e7c-11eb-82f9-f05ff269aab8.png)
 <img width="946" alt="Screen Shot 2021-06-04 at 10 43 16" src="https://user-images.githubusercontent.com/61026070/120747996-be2aca00-c521-11eb-9a0c-4c920c6d64b1.png">
 <img width="944" alt="Screen Shot 2021-06-04 at 10 43 24" src="https://user-images.githubusercontent.com/61026070/120748009-c2ef7e00-c521-11eb-809f-c9f35f1618c0.png">
