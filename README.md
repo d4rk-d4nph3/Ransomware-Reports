@@ -108,9 +108,9 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 
 ## Diavol
 
-– [THE DFIR REPORT – Diavol Ransomware – Dec 2021](https://thedfirreport.com/2021/12/13/diavol-ransomware/)
-– [Fortinet – Diavol - A New Ransomware Used By Wizard Spider? – Jul 2021](https://www.fortinet.com/blog/threat-research/diavol-new-ransomware-used-by-wizard-spider)
-– [Security Intelligence – Analysis of Diavol Ransomware Reveals Possible Link to TrickBot Gang – Aug 2021](https://securityintelligence.com/posts/analysis-of-diavol-ransomware-link-trickbot-gang/)
+- [THE DFIR REPORT – Diavol Ransomware – Dec 2021](https://thedfirreport.com/2021/12/13/diavol-ransomware/)
+- [Fortinet – Diavol - A New Ransomware Used By Wizard Spider? – Jul 2021](https://www.fortinet.com/blog/threat-research/diavol-new-ransomware-used-by-wizard-spider)
+- [Security Intelligence – Analysis of Diavol Ransomware Reveals Possible Link to TrickBot Gang – Aug 2021](https://securityintelligence.com/posts/analysis-of-diavol-ransomware-link-trickbot-gang/)
 
 ## ProLock
 
