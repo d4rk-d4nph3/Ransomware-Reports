@@ -82,6 +82,7 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 
 ## Conti
 
+- [THE DFIR REPORT – CONTInuing the Bazar Ransomware Story](https://thedfirreport.com/2021/11/29/continuing-the-bazar-ransomware-story)
 - [THE DFIR REPORT - BazarLoader and the Conti Leaks - Oct 2021](https://thedfirreport.com/2021/10/04/bazarloader-and-the-conti-leaks/)
 - [THE DFIR REPORT - BazarLoader to Conti Ransomware in 32 Hours - Sep 2021](https://thedfirreport.com/2021/09/13/bazarloader-to-conti-ransomware-in-32-hours/)
 - [THE DFIR REPORT - BazarCall to Conti Ransomware via Trickbot and Cobalt Strike - Aug 2021](https://thedfirreport.com/2021/08/01/bazarcall-to-conti-ransomware-via-trickbot-and-cobalt-strike/)
@@ -105,6 +106,11 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 - [NCCGroup - TA505: A Brief History Of Their Time - Nov 2020](https://research.nccgroup.com/2020/11/18/ta505-a-brief-history-of-their-time/)
 - [ProofPoint - TA505 Distributes New SDBbot Remote Access Trojan with Get2 Downloader - Oct 2019](https://www.proofpoint.com/us/threat-insight/post/ta505-distributes-new-sdbbot-remote-access-trojan-get2-downloader)
 
+## Diavol
+
+– [THE DFIR REPORT – Diavol Ransomware – Dec 2021](https://thedfirreport.com/2021/12/13/diavol-ransomware/)
+– [Fortinet – Diavol - A New Ransomware Used By Wizard Spider? – Jul 2021](https://www.fortinet.com/blog/threat-research/diavol-new-ransomware-used-by-wizard-spider)
+– [Security Intelligence – Analysis of Diavol Ransomware Reveals Possible Link to TrickBot Gang – Aug 2021](https://securityintelligence.com/posts/analysis-of-diavol-ransomware-link-trickbot-gang/)
 ## ProLock
 
 - [Group-IB - Lock like a Pro: How Qakbot fuels enterprise ransomware campaigns](https://www.group-ib.com/whitepapers/prolock.html)
