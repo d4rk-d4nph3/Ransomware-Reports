@@ -56,8 +56,13 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 - [McAfee - Targeted Ransomware No Longer a Future Threat - Feb 2016](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-targeted-ransomware.pdf)
 - [Ransomware And Data Leak Site Publication Time Analysis - Apr 2021](https://vulnerability.ch/2021/04/ransomware-and-date-leak-site-publication-time-analysis/)
 - [PwC - Responding to the growing threat of human-operated ransomware attack - 2020](https://www.pwc.fr/fr/assets/files/pdf/2021/02/en-france-pwc-ransomware-livre-blanc-2021.pdf)
+
 ## DarkSide
 
+- [CISA – Malware Analysis Report (AR21-189A)](https://www.cisa.gov/uscert/ncas/analysis-reports/ar21-189a)
+- [Acronis – Threat analysis: DarkSide Ransomware](https://www.acronis.com/en-us/articles/darkside-ransomware/)
+- [Qualys – DarkSide Ransomware – Jun 2021](https://blog.qualys.com/vulnerabilities-threat-research/2021/06/09/darkside-ransomware)
+- [Cyber Geeks – A STEP-BY-STEP ANALYSIS OF A NEW VERSION OF DARKSIDE RANSOMWARE (V. 2.1.2.3) – Jun 2021](https://cybergeeks.tech/a-step-by-step-analysis-of-a-new-version-of-darkside-ransomware/)
 - [PICUS - Illuminating Darkside - Jun 2021](https://media-exp1.licdn.com/dms/document/C4E1FAQH7qgjCN8BUeg/feedshare-document-pdf-analyzed/0/1624643470048?e=1624942800&v=beta&t=wOZeGbu1HE66QHj1tNRsBQ_OhWcWUyw53J5H9wc9JHY)
 - [FireEye - Shining a Light on DARKSIDE Ransomware Operations - May 2021](https://www.fireeye.com/blog/threat-research/2021/05/shining-a-light-on-darkside-ransomware-operations.html)
 - [Zawadi Done - DarkSide ransomware analysis - Oct 2020](https://zawadidone.nl/2020/10/05/darkside-ransomware-analysis.html)
