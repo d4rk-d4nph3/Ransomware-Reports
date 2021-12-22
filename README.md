@@ -30,6 +30,7 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 
 ## Generic
 
+- [AGCS - RANSOMWARE TRENDS: RISKS AND RESILIENCE](https://www.agcs.allianz.com/content/dam/onemarketing/agcs/agcs/reports/agcs-ransomware-trends-risks-and-resilience.pdf)
 - [VirusTotal - RANSOMWARE IN A GLOBAL CONTEXT - Oct 2021](https://storage.googleapis.com/vtpublic/vt-ransomware-report-2021.pdf)
 - [McAfee -  Advanced Threat Research Report: October 2021 - Oct 2021](https://www.mcafee.com/enterprise/en-us/lp/threats-reports/oct-2021.html)
 - [Sophos - The State of Ransomware 2021 - 2021](https://secure2.sophos.com/en-us/medialibrary/pdfs/whitepaper/sophos-state-of-ransomware-2021-wp.pdf)
