@@ -58,6 +58,11 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 - [Ransomware And Data Leak Site Publication Time Analysis - Apr 2021](https://vulnerability.ch/2021/04/ransomware-and-date-leak-site-publication-time-analysis/)
 - [PwC - Responding to the growing threat of human-operated ransomware attack - 2020](https://www.pwc.fr/fr/assets/files/pdf/2021/02/en-france-pwc-ransomware-livre-blanc-2021.pdf)
 
+## BlackByte
+
+- [Red Canary - ProxyShell exploitation leads to BlackByte ransomware - Nov 2021](https://redcanary.com/blog/blackbyte-ransomware/)
+- [Trustwave - BlackByte Ransomware – Pt. 1 In-depth Analysis - Oct 2021](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-1-in-depth-analysis/)
+
 ## DarkSide
 
 - [CISA – Malware Analysis Report (AR21-189A)](https://www.cisa.gov/uscert/ncas/analysis-reports/ar21-189a)
