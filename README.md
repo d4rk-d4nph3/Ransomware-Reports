@@ -81,6 +81,8 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 
 ## BlackMatter [Previously DarkSide]
 
+- [CISA - Alert AA21-291A: BlackMatter Ransomware – Oct 2021](https://www.cisa.gov/uscert/ncas/alerts/aa21-291a)
+- [Varonis - BlackMatter Ransomware: In-Depth Analysis & Recommendations - Nov 2021](https://www.varonis.com/blog/blackmatter-ransomware)
 - [McAfee - BlackMatter Ransomware Analysis; The Dark Side Returns - Sep 2021](https://www.mcafee.com/blogs/enterprise/mcafee-enterprise-atr/blackmatter-ransomware-analysis-the-dark-side-returns/)
 - [Nozomi - BlackMatter Ransomware Technical Analysis and Tools from Nozomi Networks Labs - Sep 2021](https://www.nozominetworks.com/blog/blackmatter-ransomware-technical-analysis-and-tools-from-nozomi-networks-labs/)
 - [Cyble - Dissecting BlackMatter Ransomware - Aug 2021](https://blog.cyble.com/2021/08/05/dissecting-blackmatter-ransomware/)
