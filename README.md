@@ -59,9 +59,11 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 - [McAfee - Targeted Ransomware No Longer a Future Threat - Feb 2016](https://www.mcafee.com/enterprise/en-us/assets/reports/rp-targeted-ransomware.pdf)
 - [Ransomware And Data Leak Site Publication Time Analysis - Apr 2021](https://vulnerability.ch/2021/04/ransomware-and-date-leak-site-publication-time-analysis/)
 - [PwC - Responding to the growing threat of human-operated ransomware attack - 2020](https://www.pwc.fr/fr/assets/files/pdf/2021/02/en-france-pwc-ransomware-livre-blanc-2021.pdf)
-
+****
 ## BlackByte
 
+- [Picus - TTPs used by BlackByte Ransomware Targeting Critical Infrastructure - Feb 2022](https://www.picussecurity.com/resource/ttps-used-by-blackbyte-ransomware-targeting-critical-infrastructure)
+- [FBI Alert - Indicators of Compromise Associated with BlackByte Ransomware - Feb 2022](https://www.ic3.gov/Media/News/2022/220211.pdf)
 - [Red Canary - ProxyShell exploitation leads to BlackByte ransomware - Nov 2021](https://redcanary.com/blog/blackbyte-ransomware/)
 - [Trustwave - BlackByte Ransomware – Pt. 1 In-depth Analysis - Oct 2021](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-1-in-depth-analysis/)
 
