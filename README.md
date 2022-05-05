@@ -66,6 +66,7 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 ****
 ## BlackByte
 
+- [ZScaler - Analysis of BlackByte Ransomware's Go-Based Variants - May 2022](https://www.zscaler.com/blogs/security-research/analysis-blackbyte-ransomwares-go-based-variants)
 - [Picus - TTPs used by BlackByte Ransomware Targeting Critical Infrastructure - Feb 2022](https://www.picussecurity.com/resource/ttps-used-by-blackbyte-ransomware-targeting-critical-infrastructure)
 - [FBI Alert - Indicators of Compromise Associated with BlackByte Ransomware - Feb 2022](https://www.ic3.gov/Media/News/2022/220211.pdf)
 - [Red Canary - ProxyShell exploitation leads to BlackByte ransomware - Nov 2021](https://redcanary.com/blog/blackbyte-ransomware/)
