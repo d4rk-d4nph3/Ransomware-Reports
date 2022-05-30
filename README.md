@@ -64,6 +64,11 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 - [Ransomware And Data Leak Site Publication Time Analysis - Apr 2021](https://vulnerability.ch/2021/04/ransomware-and-date-leak-site-publication-time-analysis/)
 - [PwC - Responding to the growing threat of human-operated ransomware attack - 2020](https://www.pwc.fr/fr/assets/files/pdf/2021/02/en-france-pwc-ransomware-livre-blanc-2021.pdf)
 ****
+
+## Quantum
+
+- [The DFIR Report - Quantum Ransomware - Apr 2022](https://thedfirreport.com/2022/04/25/quantum-ransomware/)
+
 ## BlackByte
 
 - [ZScaler - Analysis of BlackByte Ransomware's Go-Based Variants - May 2022](https://www.zscaler.com/blogs/security-research/analysis-blackbyte-ransomwares-go-based-variants)
