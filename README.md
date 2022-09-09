@@ -65,6 +65,12 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 - [PwC - Responding to the growing threat of human-operated ransomware attack - 2020](https://www.pwc.fr/fr/assets/files/pdf/2021/02/en-france-pwc-ransomware-livre-blanc-2021.pdf)
 ****
 
+## Hive
+
+- [Microsoft -  Hive ransomware gets upgrades in Rust - Jul 2022](https://www.microsoft.com/security/blog/2022/07/05/hive-ransomware-gets-upgrades-in-rust/)
+- [Group-IB - Inside the Hive: Deep dive into Hive RaaS, analysis of latest samples - Sep 2021](https://blog.group-ib.com/hive)
+- [SentinelOne - Hive Attacks | Analysis of the Human-Operated Ransomware Targeting Healthcare - Aug 2021](https://www.sentinelone.com/labs/hive-attacks-analysis-of-the-human-operated-ransomware-targeting-healthcare/)
+
 ## Vice Society
 
 - [Cisco Talos -  Vice Society leverages PrintNightmare in ransomware attacks - Aug 2021](https://blog.talosintelligence.com/2021/08/vice-society-ransomware-printnightmare.html)
