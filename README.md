@@ -65,6 +65,13 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 - [PwC - Responding to the growing threat of human-operated ransomware attack - 2020](https://www.pwc.fr/fr/assets/files/pdf/2021/02/en-france-pwc-ransomware-livre-blanc-2021.pdf)
 ****
 
+## BlackCat
+
+- [Microsoft - The many lives of BlackCat ransomware - Jul 2022](https://www.microsoft.com/security/blog/2022/06/13/the-many-lives-of-blackcat-ransomware/)
+- [TrendMicro - An Investigation of the BlackCat Ransomware via Trend Micro Vision One - Apr 2022](https://www.trendmicro.com/en_us/research/22/d/an-investigation-of-the-blackcat-ransomware.html)
+- [Unit42 - Threat Assessment: BlackCat Ransomware - Jan 2022](https://unit42.paloaltonetworks.com/blackcat-ransomware/)
+- [Security Scorecard -  A Deep Dive Into ALPHV/BlackCat Ransomware](https://securityscorecard.com/research/deep-dive-into-alphv-blackcat-ransomware)
+
 ## Hive
 
 - [Microsoft -  Hive ransomware gets upgrades in Rust - Jul 2022](https://www.microsoft.com/security/blog/2022/07/05/hive-ransomware-gets-upgrades-in-rust/)
