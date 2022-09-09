@@ -65,9 +65,17 @@ Special thanks to [Group-IB](https://www.group-ib.com/) whose pictures are exten
 - [PwC - Responding to the growing threat of human-operated ransomware attack - 2020](https://www.pwc.fr/fr/assets/files/pdf/2021/02/en-france-pwc-ransomware-livre-blanc-2021.pdf)
 ****
 
+## Vice Society
+
+- [Cisco Talos -  Vice Society leverages PrintNightmare in ransomware attacks - Aug 2021](https://blog.talosintelligence.com/2021/08/vice-society-ransomware-printnightmare.html)
+
 ## Quantum
 
 - [The DFIR Report - Quantum Ransomware - Apr 2022](https://thedfirreport.com/2022/04/25/quantum-ransomware/)
+
+## Monti
+
+- [BlackBerry - The Curious Case of “Monti” Ransomware: A Real-World Doppelganger - Sep 2022](https://blogs.blackberry.com/en/2022/09/the-curious-case-of-monti-ransomware-a-real-world-doppelganger)
 
 ## BlackByte
 
